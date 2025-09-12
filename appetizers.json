@@ -2,13 +2,13 @@
 "request": [
 {
     "name": "Asian Flank Steak",
-    "description: ""This perfectly thin cut just melts in your mouth",
-    "protein:",
-    "id":,
-    "calories":,
-    "price":,
-    "carbs":,
-    "imageURL":
+    "description": "This perfectly thin cut just melts in your mouth",
+    "protein": 4,
+    "id": 0,
+    "calories": 580,
+    "price": 9.99,
+    "carbs": 14,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/steak-dinner.jpg"
 },
 {
     "name":,
