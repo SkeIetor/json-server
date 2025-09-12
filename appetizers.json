@@ -9,26 +9,6 @@
     "price": 9.99,
     "carbs": 14,
     "imageURL": "https://github.com/SkeIetor/json-server/blob/main/steak-dinner.jpg"
-},
-{
-    "name":,
-    "description":,
-    "protein":,
-    "id":,
-    "calories":,
-    "price":,
-    "carbs":,
-    "imageURL":
-},
-{
-    "name":,
-    "description":,
-    "protein":,
-    "id":,
-    "calories":,
-    "price":,
-    "carbs":,
-    "imageURL":
 }
 ]
 }
