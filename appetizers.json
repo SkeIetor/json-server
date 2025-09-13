@@ -9,6 +9,76 @@
     "price": 9.99,
     "carbs": 14,
     "imageURL": "https://github.com/SkeIetor/json-server/blob/main/steak-dinner.jpg"
+},
+{
+    "name": "Shrimp on the Barbie",
+    "description": "Delicious shrimp on the barbie!",
+    "protein": 6,
+    "id": 1,
+    "calories": 680,
+    "price": 9.99,
+    "carbs": 14,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/shrimpbbq.jpg"
+},
+{
+    "name": "Ono Salad",
+    "description": "This salad is a straight banger!",
+    "protein": 1,
+    "id": 2,
+    "calories": 300,
+    "price": 6.99,
+    "carbs": 0,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/salad.jpg"
+},
+{
+    "name": "Margarita",
+    "description": "The best margarita in town!",
+    "protein": 0,
+    "id": 3,
+    "calories": 180,
+    "price": 12.99,
+    "carbs": 0,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/margarita.jpg"
+},
+{
+    "name": "Tater Tots",
+    "description": "Crispy tater tots!",
+    "protein": 8,
+    "id": 4,
+    "calories": 590,
+    "price": 4.99,
+    "carbs": 7,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/ttot.jpg"
+},
+{
+    "name": "Bacon Burger",
+    "description": "Big ol' Bacon Burger",
+    "protein": 4,
+    "id": 5,
+    "calories": 580,
+    "price": 9.99,
+    "carbs": 14,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/baconburger.jpg"
+},
+{
+    "name": "Zucchini Fries",
+    "description": "The perfect take on zucchinis!",
+    "protein": 4,
+    "id": 6,
+    "calories": 580,
+    "price": 7.99,
+    "carbs": 14,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/zucchinifries.jpg"
+},
+{
+    "name": "Fruit Punch",
+    "description": "Killa fruit punch!!",
+    "protein": 0,
+    "id": 7,
+    "calories": 380,
+    "price": 2.99,
+    "carbs": 0,
+    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/fruitpunch.jpg"
 }
 ]
 }
