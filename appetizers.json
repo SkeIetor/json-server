@@ -8,7 +8,7 @@
     "calories": 580,
     "price": 9.99,
     "carbs": 14,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/steak-dinner.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/steak-dinner.jpg"
 },
 {
     "name": "Shrimp on the Barbie",
@@ -18,7 +18,7 @@
     "calories": 680,
     "price": 9.99,
     "carbs": 14,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/shrimpbbq.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/shrimpbbq.jpg"
 },
 {
     "name": "Ono Salad",
@@ -28,7 +28,7 @@
     "calories": 300,
     "price": 6.99,
     "carbs": 0,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/salad.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/salad.jpg"
 },
 {
     "name": "Margarita",
@@ -38,7 +38,7 @@
     "calories": 180,
     "price": 12.99,
     "carbs": 0,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/margarita.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/margarita.jpg"
 },
 {
     "name": "Tater Tots",
@@ -48,7 +48,7 @@
     "calories": 590,
     "price": 4.99,
     "carbs": 7,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/ttot.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/ttot.jpg"
 },
 {
     "name": "Bacon Burger",
@@ -58,7 +58,7 @@
     "calories": 580,
     "price": 9.99,
     "carbs": 14,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/baconburger.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/baconburger.jpg"
 },
 {
     "name": "Zucchini Fries",
@@ -68,7 +68,7 @@
     "calories": 580,
     "price": 7.99,
     "carbs": 14,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/zucchinifries.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/zucchinifries.jpg"
 },
 {
     "name": "Fruit Punch",
@@ -78,7 +78,7 @@
     "calories": 380,
     "price": 2.99,
     "carbs": 0,
-    "imageURL": "https://github.com/SkeIetor/json-server/blob/main/fruitpunch.jpg"
+    "imageURL": "https://skeietor.github.io/json-server/fruitpunch.jpg"
 }
 ]
 }
